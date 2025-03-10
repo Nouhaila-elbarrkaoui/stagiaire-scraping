@@ -1,8 +1,0 @@
- pour runer le fichier main.py tu doit executer cette commande 
-uvicorn main:app 
-
-apre il gere ca tu consulter chaque lien est tu trouve les info ce que tu veux
-
-http://127.0.0.1:8000/jobs_with_links_stagiaire
-
- http://127.0.0.1:8000/jobs_without_links_stagiaire
